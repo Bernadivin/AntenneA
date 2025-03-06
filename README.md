@@ -1,2 +1,2 @@
 # AntenneA
-Antenne A
+{"categories":[{"name":"Movies","videos":[{"description":"Nous sommes la première chaîne de télévision privée à caractère Apolitique généraliste et Commerciale en Republique Democratique du Congo(RDC). Crée en 1991, en effet le 13 Juin 1991 la chaîne est reconnue par la signature de l'acte de constitutif de =ANTENNE A= Société Privée à Responsabilité Limitée (S.P.R.L). Toujours prêt à vous servir !!!","sources":["https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg0NjM0Mjhf/logo.jpg","title":"ANTENNE-A TV"}]}]}
